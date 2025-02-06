@@ -13,7 +13,7 @@ function rejectProposal() {
 
 function acceptProposal() {
     // You can replace these details with your Twilio credentials
-    const accountSID = " AC42f9bbed55837cd516a6a899fdb7ff633";  // Replace with your Twilio Account SID
+    const accountSID = "AC42f9bbed55837cd516a6a899fdb7ff633";  // Replace with your Twilio Account SID
     const authToken = "76cca039dd20409fd41b6267a851df4c";    // Replace with your Twilio Auth Token
     const fromWhatsAppNumber = "whatsapp:+14155238886"; // Twilio WhatsApp Sandbox Number
     const toWhatsAppNumber = "whatsapp:+916006885526"; // Your WhatsApp Number
